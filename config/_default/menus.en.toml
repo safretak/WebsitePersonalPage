@@ -13,8 +13,4 @@
   pageRef = "publications"
   weight = 30
 
-[[main]]
-  name = "Teaching"
-  pageRef = "teaching"
-  weight = 40
 
