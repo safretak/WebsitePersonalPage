@@ -20,13 +20,14 @@ I am an interdisciplinary researcher (with a persistent crisis of disciplinary i
 
 ## Education
 
-**PhD** — University of Cambridge, 2007  
-Thesis: *Deconstructing the Croissant: Pastry as Colonial Metaphor in 19th Century French Literature*
+**PhD** — Delft University of Technology, 2022-2027  
+Thesis: *Technological fallibility: intersections of AI research, design, and philosophy* (preliminary title)
 
-**MA** — University of Edinburgh, 2003  
-Thesis: *The Semiotics of "Out of Office" Email Replies*
+**MA** (cum laude) — Higher School of Economics, 2022  
+Critical Media Studies
+Thesis: *Is technology ahead of the law? Examining timescales, law lag narrative, and temporal frictions in the case of the experimental legal regimes in Russia*
 
-**BA (Hons)** — University of Bristol, 2001  
-In: English Literature and Philosophy, with a minor in avoiding my supervisor
+**BA** — Higher School of Economics, 2020  
+Political Science with a minor in History of Political Thought & Public Policy
 
 

@@ -12,12 +12,12 @@ title = "Dmitry Muravyov"
 
 [params.author]
   name = "Dmitry Muravyov"
-  email = "r.huffington-smythe@university.edu"
-  headline = "Professor of Postmodern Semiotics | Amateur Competitive Crossword Solver"
-  bio = "I study the semiotic implications of things that mean other things. My current project investigates whether laundry instructions constitute a form of oppressive discourse. I have opinions about Derrida that I will share with you whether you asked or not."
+  email = "d.v.muravev@tudelft.nl"
+  headline = "PhD Candidate at TU Delft"
+  bio = "I am an interdisciplinary researcher interested in philosophy (of technology), science & technology studies, and design research"
   links = [
-    { bluesky = "https://bsky.app/profile/yourhandle.bsky.social" },
-    { github = "https://github.com/yourusername" },
+    { google-scholar = "https://scholar.google.com/citations?user=H-pBe1kAAAAJ&hl=en" },
+    { linkedin = "https://www.linkedin.com/in/dmitry-muravyov-28270b2a4/" },
     { email = "mailto:r.huffington-smythe@university.edu" },
   ]
   image = "img/my-photo.png"
