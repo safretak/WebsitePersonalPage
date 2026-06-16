@@ -1,0 +1,20 @@
+{{ define "main" }}
+  {{ if .Content }}
+    <div class="index-content">
+      {{ .Content }}
+    </div>
+  {{ end }}
+  <div class="posts">
+    {{ $pages := where .Site.RegularPages "Type" "ne" "" }}
+    {{ range $pages }}
+      <article class="post on-list">
+        <h2 class="post-title">
+          <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+        </h2>
+        <div class="post-content">
+          {{ .Content }}
+        </div>
+      </article>
+    {{ end }}
+  </div>
+{{ end }}

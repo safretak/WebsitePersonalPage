@@ -1,7 +1,6 @@
 [params]
-  # "posts" = content shown on homepage. Change if you want a different section on homepage.
   contentTypeName = "posts"
-  showMenuItems = 4
+  showMenuItems = 5
   showLanguageSelector = false
   fullWidthTheme = false
   centerTheme = false
@@ -17,11 +16,10 @@
 
 [languages]
   [languages.en]
-    title = "Dmitry Muravyov's website"
-    languageName = "English"
+    title = "Dmitry Muravyov"
 
     [languages.en.params]
-      subtitle = "Personal website"
+      subtitle = "PhD Candidate at TU Delft"
       owner = "Dmitry Muravyov"
       keywords = ""
       copyright = ""
@@ -36,10 +34,17 @@
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Your Site"
+        logoText = "D.M."
         logoHomeLink = "/"
 
-      [[languages.en.menu.main]]
-        name = "Posts"
-        url = "/posts"
-        weight = 1
+      [languages.en.params.author]
+        name = "Dmitry Muravyov"
+        email = "d.v.muravev@tudelft.nl"
+        headline = "PhD Candidate at TU Delft"
+        bio = "Interdisciplinary researcher in philosophy of technology, STS, and design research"
+        links = [
+          { google-scholar = "https://scholar.google.com/citations?user=H-pBe1kAAAAJ&hl=en" },
+          { linkedin = "https://www.linkedin.com/in/dmitry-muravyov-28270b2a4/" },
+          { email = "mailto:d.v.muravev@tudelft.nl" },
+        ]
+        image = "img/my-photo.png"
