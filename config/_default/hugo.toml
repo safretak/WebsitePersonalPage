@@ -1,22 +1,19 @@
-theme = "blowfish"
+theme = "terminal"
 baseURL = "https://phdpersonalpagetutorial.netlify.app/"
-defaultContentLanguage = "en"
 
-enableRobotsTXT = true
-summaryLength = 30
-enableEmoji = true
+
+
+
 buildDrafts = false
 buildFuture = false
 
 [pagination]
   pagerSize = 10
 
-[imaging]
-  anchor = "Center"
 
 [taxonomies]
   tag = "tags"
   category = "categories"
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+[markup.highlight]
+  noClasses = false
