@@ -8,18 +8,15 @@ showAuthor: false
 
 ## Bio
 
-I am **Dr. Reginald Huffington-Smythe III**, Professor of Postmodern Semiotics and Chair of the Subcommittee on Departmental Refrigerator Usage Policy at the University of Upper Boroughwick.
+Currently, I am a PhD Candidate at TU Delft (Netherlands), a part of the AI DeMoS Lab. My PhD project explores the political and ethical issues surrounding what I call the "algorithmic fallibility," — a collectively shared condition of living with technology’s breakdowns, failures, and errors. I am interested in how practitioners in different fields understand these notions, the philosophical, technical, and historical roots of these concepts, and how people, individually and collectively, can live with fallible technologies. In my research, I converse with fields such as philosophy of technology, STS, design research, and critical data & algorithm studies.
 
-I completed my doctorate at the University of Cambridge on the topic of *"Deconstructing the Croissant: Pastry as Colonial Metaphor in 19th Century French Literature"*, a work my supervisor described as "ambitious" and my mother described as "a waste of a perfectly good education."
-
-Before joining Upper Boroughwick, I held positions at three institutions I prefer not to name for reasons that are largely legal in nature.
+I have a BA in Political Science (Higher School of Economics, 2020). During that time, I have minored in History of Political Thought and Public Policy. I received an MA in Critical Media Studies (Higher School of Economics, 2022).
 
 ## Research Interests
 
-- Postmodern semiotics and the meaning of meaning (and whether meaning means anything)
-- Critical discourse analysis of bureaucratic language (my magnum opus: 47 pages on a parking ticket)
-- The semiotic implications of IKEA instruction manuals
-- Crossword puzzle theory (yes, this counts as research; I have published on it)
+I am an interdisciplinary researcher (with a persistent crisis of disciplinary identity) who works across science and technology studies, philosophy of technology, and critical data/AI studies. My research can be summarised by two major lines:
+1) Critical studies, ethical and political philosophy of AI. This is the line of research I pursue in my PhD project since 2022. In this project, I thinking about what I call the "algorithmic fallibility," — a collectively shared condition of living with technology’s breakdowns, failures, and errors. I am interested in how practitioners in different fields understand these notions, the philosophical, technical, and historical roots of these concepts, and how people, individually and collectively, can live with fallible technologies. In my research, I converse with fields such as philosophy of technology, STS, design research, and critical data & algorithm studies.
+2) The social research on digital technologies in Russia, primarily with the focus on the grassroots, activist contexts and state policies. This is the research I primarily did from 2018 to 2022; some of the resulting publications on data activism & ambiguity, contextual understanding of digital sovereignty, and internet histories in Siberia.
 
 ## Education
 
@@ -32,8 +29,4 @@ Thesis: *The Semiotics of "Out of Office" Email Replies*
 **BA (Hons)** — University of Bristol, 2001  
 In: English Literature and Philosophy, with a minor in avoiding my supervisor
 
-## Personal
 
-Outside of academia, I am an amateur competitive crossword solver (regional finalist, 2019 and 2022), a reluctant dog owner (the dog's name is Derrida, which I regret), and an enthusiastic but technically mediocre amateur clarinettist.
-
-I take my coffee black, my peer reviews anonymous, and my theoretical frameworks French.
