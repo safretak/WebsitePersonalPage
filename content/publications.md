@@ -11,6 +11,8 @@ showAuthor: false
 
 ## Peer-Reviewed Articles
 
+Ravn, L., N'Diaye, B., Mackinnon, K., Thylstrup, N. B., & Muravyov, D. (2026). *Governing by dismantling: tech oligarchy and the stifling of public data infrastructure*. Science as Culture, 1-16.
+
 Muravyov D. & Cila N. (2026) *Designing with fallibility: Examining the knowledge politics of agency, methods, and motivations in robot failure research*. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems.
 
 Kudina O., Mollen J., Guerrero J.V., Muravyov D., Bermúdez J. P. (2025) *Teaching and Crafting Human-Robot Relational Ethics*. SEFI Journal of Engineering Education Advancement, 2(2), pp. 6-31.
@@ -33,7 +35,7 @@ Kolozaridi P., Muravyov D., Yuldashev L. (2024) *Интернет-исследо
 
 ## Reports
 
-Barash, Vladimir and Muravyov, Dmitry and Ronzaud, Léa. (2021) *The Digitally Mediated Public Sphere on Vkontakte in Russia 2020* (April 1, 2021). Available at SSRN: 
+Barash, Vladimir and Muravyov, Dmitry and Ronzaud, Léa. (2021) *The Digitally Mediated Public Sphere on Vkontakte in Russia 2020*.
 
-Barash, Vladimir, Kolozaridi, Polina, Muravyov, Dmitry, Gabov, Konstantin, Kiryshnina, Margarita, Goncharova, Alexandra, Ruch, Alexander (2020). *Evolution of the Digitally Mediated Public Sphere in Russia, 2012-2018* (December 1, 2020)
+Barash, Vladimir, Kolozaridi, Polina, Muravyov, Dmitry, Gabov, Konstantin, Kiryshnina, Margarita, Goncharova, Alexandra, Ruch, Alexander (2020). *Evolution of the Digitally Mediated Public Sphere in Russia, 2012-2018*. 
 
